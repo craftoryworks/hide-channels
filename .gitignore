@@ -1,0 +1,12 @@
+node_modules/
+.output/
+.wxt/
+stats.html
+*.log
+.DS_Store
+.env*
+*.pem
+*.zip
+*.crx
+*.xpi
+web-ext-artifacts/

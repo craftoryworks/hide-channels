@@ -1,0 +1,81 @@
+{
+  "worksOn": "Çalıştığı yerler:",
+  "hideShort": "Gizle:",
+  "colChannel": "Kanal",
+  "colCategory": "Kategori",
+  "sec": {
+    "carousel": "Karusel (ana sayfa)",
+    "sidebarChannels": "Önerilen kanallar (kenar çubuğu)",
+    "sidebarCategories": "Önerilen kategoriler (kenar çubuğu, Twitch)",
+    "sidebarSimilar": "“İzleyiciler bunları da izliyor” (kenar çubuğu, Twitch)"
+  },
+  "secShort": {
+    "carousel": "Karusel",
+    "sidebarChannels": "Önerilenler",
+    "sidebarCategories": "Kategoriler",
+    "sidebarSimilar": "Bunları da izliyor"
+  },
+  "channels": "Kanallar",
+  "categories": "Kategoriler",
+  "searchChannel": "Kanal ara veya ekle…",
+  "searchCategory": "Kategori ara veya ekle…",
+  "addHint": "Enter: “{0}” ekle",
+  "hideOnTwitch": "Twitch'te gizle",
+  "hideOnKick": "Kick'te gizle",
+  "remove": "Listeden kaldır",
+  "empty": "Liste boş. Twitch veya Kick'te bir kutucuğun üzerine gel ve X'e tıkla.",
+  "noResults": "Sonuç yok.",
+  "exportBtn": "Dışa aktar",
+  "importBtn": "İçe aktar",
+  "settings": "Ayarlar",
+  "optTitle": "Hide Channels - ayarlar",
+  "general": "Genel",
+  "language": "Dil",
+  "langAuto": "Otomatik",
+  "reload": "Değişiklikler, açık sekmelerde sayfa yenilendikten sonra geçerli olur.",
+  "fillFollowed": "Öneriler gizliyken takip edilen kanallar listesini boş alana genişlet",
+  "hiddenTiles": "Gizlenen kutucuklar",
+  "hiddenPlaceholder": "“Kanal gizlendi” / “Kategori gizlendi” yazan boş bir alan bırak (önerilen)",
+  "hiddenRemove": "Listeden kaldır, ama bir seferde çok fazla şey gizlersem açıklamalı boş alanlar göster",
+  "hiddenRemoveAlways": "Her zaman listeden kaldır (riski sana ait: site durmadan içerik yüklemeye devam edebilir)",
+  "hiddenNote": "Büyük kutucuk listeleri için geçerlidir. Kenar çubuğundaki satırlar her zaman kaybolur.",
+  "phPreview": "Kanal gizlendi",
+  "pinTitle": "Uzantı simgesini sabitle",
+  "pinText": [
+    "Chrome, uzantıların kendini sabitlemesine izin vermez. Adres çubuğunun yanındaki Uzantılar simgesine",
+    "tıkla, ardından “Hide Channels for Twitch & Kick” yanındaki Sabitle simgesine",
+    "tıkla. Böylece simge her zaman görünür olur."
+  ],
+  "extMenu": "Uzantılar",
+  "extOther": "Başka bir uzantı",
+  "data": "Veriler",
+  "importInfo": "İçe aktarma, dosyayı mevcut listenle birleştirir. Önce bir yedek kaydedilir.",
+  "importMove": "Tarayıcı mı değiştiriyorsun? Çok kolay: listeni burada dışa aktar, sonra dosyayı yeni tarayıcıda içe aktar.",
+  "importOk": "İçe aktarıldı: {0}, {1}.",
+  "importChannels": {
+    "one": "{0} kanal",
+    "other": "{0} kanal"
+  },
+  "importCategories": {
+    "one": "{0} kategori",
+    "other": "{0} kategori"
+  },
+  "importErr": "Dosya okunamadı.",
+  "bugs": "İletişim",
+  "bugsText": "Bir şey çalışmıyor mu ya da bir özellik mi eksik? Bana haber ver.",
+  "emailMe": "E-posta gönder",
+  "reportIssue": "GitHub'da sorun bildir",
+  "about": "Hakkında",
+  "aboutText": [
+    "Resmî olmayan bir araçtır; Twitch veya Kick ile bağlantılı değildir ve onlar tarafından onaylanmamıştır. Her şey yerelde çalışır; hiçbir veri toplanmaz veya gönderilmez.",
+    "“Olduğu gibi”, hiçbir garanti olmadan sunulur. Kullanım riski sana aittir. Hesap yasaklarından, askıya alınmalardan veya sitelerin davranışından sorumlu değiliz.",
+    "Gizlenen kutucuklar kaybolduğunda site kendiliğinden yenilerini yüklemeye devam edebilir. Bu yüzden varsayılan olarak yerlerinde boş alanlar bırakıyoruz."
+  ],
+  "license": "GPL-3.0 lisansı",
+  "disclaimer": "Sorumluluk reddi",
+  "privacy": "Gizlilik politikası",
+  "source": "Kaynak kodu",
+  "support": "Destekle",
+  "supportText": "Uzantı ücretsizdir. İşine yarıyorsa geliştirilmesini destekleyebilirsin.",
+  "madeBy": "Made by"
+}

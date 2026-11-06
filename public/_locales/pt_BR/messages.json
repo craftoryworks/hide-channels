@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Hide Channels for Twitch & Kick",
+    "description": "Extension name. Never translated."
+  },
+  "extDescription": {
+    "message": "Oculte canais e categorias que você não quer ver na Twitch e no Kick. Não oficial, sem vínculo com a Twitch ou o Kick.",
+    "description": "Store / manifest description, max 132 characters."
+  }
+}

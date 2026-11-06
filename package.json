@@ -1,0 +1,36 @@
+{
+  "name": "hide-channels",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hide channels and categories on Twitch and Kick.",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "build:firefox": "wxt build -b firefox",
+    "zip": "wxt zip",
+    "zip:firefox": "wxt zip -b firefox",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "lint": "biome check .",
+    "format": "biome check --write .",
+    "postinstall": "wxt prepare",
+    "check": "npx -y -p typescript@6.0.3 -p svelte-check@4.7.8 svelte-check --tsconfig ./tsconfig.json --fail-on-warnings",
+    "ci": "biome ci .",
+    "lint:firefox": "wxt build -b firefox && web-ext lint -s .output/firefox-mv3",
+    "verify": "npm run ci && npm run typecheck && npm run check && npm test && npm run build && npm run lint:firefox",
+    "prepare": "lefthook install || exit 0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.6.5",
+    "@wxt-dev/module-svelte": "^2.0.5",
+    "happy-dom": "^21.0.4",
+    "lefthook": "2.2.2",
+    "svelte": "^5.57.3",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0",
+    "web-ext": "10.8.0",
+    "wxt": "^0.21.5"
+  }
+}
