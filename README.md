@@ -1,8 +1,28 @@
-# Hide Channels for Twitch & Kick
+<p align="center">
+  <img src="public/icon/128.png" width="96" height="96" alt="">
+</p>
 
-Browser extension that hides the channels and categories you never want to see on Twitch and Kick: in the directory, on the home page, in the sidebar, in search and in the featured carousel.
+<h1 align="center">Hide Channels for Twitch &amp; Kick</h1>
 
-Unofficial, not affiliated with or endorsed by Twitch or Kick. Made by [Craftory](https://craftory.works).
+<p align="center">
+  Hide the channels and categories you never want to see on Twitch and Kick.<br>
+  In the directory, on the home page, in the sidebar, in search and in the featured carousel.
+</p>
+
+<p align="center">
+  <a href="https://craftory.works">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/craftory-logo-on-dark.svg">
+      <img src="docs/craftory-logo-on-light.svg" height="36" alt="Craftory">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="docs/demo.gif" width="720" alt="Hover a tile, click X, choose Hide channel: after a refresh the tile is replaced by a neutral Channel hidden spot">
+</p>
+
+Unofficial, not affiliated with or endorsed by Twitch or Kick. The demo above uses a made-up streaming site.
 
 ## Features
 
@@ -13,6 +33,18 @@ Unofficial, not affiliated with or endorsed by Twitch or Kick. Made by [Craftory
 - Export and import the list as a JSON file (for backups or moving to another browser).
 - Everything stays in your browser: no account, no server, no analytics.
 - Available in English, Polish, Spanish, Portuguese (Brazil), German, French, Italian, Turkish and Ukrainian.
+
+Hiding from the sidebar works the same way: hover a row, click X, and the row is gone after a refresh.
+
+<p align="center">
+  <img src="docs/demo-sidebar.gif" width="720" alt="Hover a channel in the followed list, click X: the row is greyed with an Undo button, and after a refresh it is gone">
+</p>
+
+## Popup
+
+<p align="center">
+  <img src="docs/popup.png" width="360" alt="Popup: sites the extension works on, sections to hide, and the list of hidden channels with a Twitch and a Kick switch for each">
+</p>
 
 ## Install
 
