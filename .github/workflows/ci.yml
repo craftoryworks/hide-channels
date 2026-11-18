@@ -79,4 +79,9 @@ jobs:
           node-version: lts/*
           cache: npm
       - run: npm ci
-      - run: npm audit --audit-level=high
+      - name: audit (shipped dependencies)
+        run: npm audit --omit=dev --audit-level=high
+      # Dev tooling never ends up in the extension; report it without blocking (some advisories have no fix yet).
+      - name: audit (all dependencies, informational)
+        continue-on-error: true
+        run: npm audit --audit-level=high
