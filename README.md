@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/mlpaecliiggmhfgmdohfekmdfcneahfa"><b>Chrome Web Store</b></a> ·
   <a href="https://addons.mozilla.org/firefox/addon/hide-channels-for-twitch-kick/"><b>Firefox Add-ons</b></a> ·
+  <a href="https://microsoftedge.microsoft.com/addons/detail/pjmackjloeckoelflicldepafnnibmco"><b>Microsoft Edge Add-ons</b></a> ·
   <a href="https://ko-fi.com/craftory">Support on Ko-fi</a>
 </p>
 
@@ -56,8 +57,9 @@ Hiding from the sidebar works the same way: hover a row, click X, and the row is
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/mlpaecliiggmhfgmdohfekmdfcneahfa) - Chrome, Brave, Vivaldi, Arc and other Chromium-based browsers
 - [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/hide-channels-for-twitch-kick/) - Firefox 140+ (Firefox for Android 142+), LibreWolf, Waterfox, Floorp, Zen
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pjmackjloeckoelflicldepafnnibmco) - Edge
 
-Microsoft Edge Add-ons and Opera Add-ons are coming soon. Until then, Edge can install it from the Chrome Web Store ("Allow extensions from other stores"), and Opera through the "Install Chrome Extensions" add-on.
+Opera Add-ons is coming soon. Until then, Opera can install it from the Chrome Web Store through the "Install Chrome Extensions" add-on.
 
 ## Privacy
 
